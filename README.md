@@ -3,4 +3,6 @@ Projetinho simples que verifica a umidade do solo uma vez por dia e abre uma tor
 
 Usa um motor de passo puxando uma torneira de filtro   
 
-Créditos a Arquimedes pela alavanca
+Créditos a Arquimedes pela alavanca  
+
+Talvez algum dia eu adicione fotos do projeto
